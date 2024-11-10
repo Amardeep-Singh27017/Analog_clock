@@ -1,1 +1,1 @@
-# Analog_clock
+I created a functional analog clock using HTML, CSS, and JavaScript, showcasing real-time accuracy and a classic design. The clock features smoothly moving hands that reflect the current hours, minutes, and seconds. With a responsive layout.
